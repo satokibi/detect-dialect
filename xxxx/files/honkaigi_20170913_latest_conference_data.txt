@@ -1,0 +1,73 @@
+./../47honkaigi_20170913/Pref42_nagasaki_nayose0904.csv / 0027-03-18
+./../47honkaigi_20170913/Pref47_okinawa_nayose0704.csv / 0027-03-27
+./../47honkaigi_20170913/Pref11_saitama_nayose0704.csv / 0027-03-13
+./../47honkaigi_20170913/Pref22_shizuoka_nayose0704_sorted.csv / 0027-03-27
+./../47honkaigi_20170913/Pref06_yamagata_nayose0704.csv / 0027-03-17
+./../47honkaigi_20170913/Pref35_yamaguchi_nayose0704.csv / 0027-03-13
+./../47honkaigi_20170913/Pref32_shimane.csv / 0027-03-06
+./../47honkaigi_20170913/Pref25_shiga_kuten_div2_0905.csv / 0027-03-16
+./../47honkaigi_20170913/Pref45_miyazaki_nayose0704.csv / 0027-03-13
+./../47honkaigi_20170913/Pref36_tokushima_nayose0704.csv / 0027-03-09
+./../47honkaigi_20170913/Pref10_gunma_kuten_div2_0905.csv / 0027-03-12
+./../47honkaigi_20170913/Pref01_hokkaido_kuten_div2_0905.csv / 0027-03-11
+./../47honkaigi_20170913/Pref08_ibaraki.csv / 0027-03-23
+./../47honkaigi_20170913/Pref17_ishikawa_kuten_div2_0905.csv / 0027-03-18
+./../47honkaigi_20170913/Pref04_miyagi_nayose0704.csv / 0027-03-18
+./../47honkaigi_20170913/Pref20_nagano_kuten_div2_0905.csv / 0027-03-13
+./../47honkaigi_20170913/Pref38_ehime_kuten_div2_0905.csv / 0027-03-18
+./../47honkaigi_20170913/Pref05_akita_nayose0704_sorted.csv / 0027-03-12
+./../47honkaigi_20170913/Pref27_osaka_nayose0704_sorted.csv / 0027-03-18
+./../47honkaigi_20170913/Pref03_iwate_nayose0704.csv / 0027-03-23
+./../47honkaigi_20170913/Pref30_wakayama_nayose0704.csv / 0027-03-06
+./../47honkaigi_20170913/Pref29_nara_nayose0704.csv / 0027-03-18
+./../47honkaigi_20170913/Pref14_kanagawa_nayose0704.csv / 0027-03-13
+./../47honkaigi_20170913/Pref23_aichi.csv / 0027-03-20
+./../47honkaigi_20170913/Pref40_fukuoka.csv / 0027-02-24
+./../47honkaigi_20170913/Pref16_toyama.csv / 0027-03-16
+./../47honkaigi_20170913/Pref12_chiba.csv / 0027-03-13
+./../47honkaigi_20170913/Pref37_kagawa.csv / 0027-03-16
+./../47honkaigi_20170913/Pref46_kagoshima.csv / 0027-03-20
+./../47honkaigi_20170913/Pref09_tochigi_kuten_div2_0905.csv / 0026-12-18
+./../47honkaigi_20170913/Pref33_okayama_nayose0704.csv / 0027-03-19
+./../47honkaigi_20170913/Pref07_fukushima_nayose0704.csv / 0027-03-20
+./../47honkaigi_20170913/Pref41_saga.csv / 0027-03-06
+./../47honkaigi_20170913/Pref43_kumamoto_nayose0704.csv / 0027-03-13
+./../47honkaigi_20170913/Pref24_mie_nayose0704.csv / 0027-03-17
+./../47honkaigi_20170913/Pref02_aomori.csv / 0027-03-17
+./../47honkaigi_20170913/Pref21_gifu_nayose0704.csv / 0027-03-19
+./../47honkaigi_20170913/Pref44_oita_nayose0704.csv / 0027-03-17
+./../47honkaigi_20170913/Pref26_kyoto.csv / 0027-03-13
+./../47honkaigi_20170913/Pref19_yamanashi.csv / 0027-03-16
+./../47honkaigi_20170913/Pref34_hiroshima.csv / 0027-03-10
+./../47honkaigi_20170913/Pref13_tokyo.csv / 0027-03-27
+./../47honkaigi_20170913/Pref28_hyogo_kuten_div2_0905.csv / 0027-03-20
+./../47honkaigi_20170913/Pref31_tottori.csv / 0027-03-12
+./../47honkaigi_20170913/Pref39_kochi_nayose0704.csv / 0027-03-19
+./../47honkaigi_20170913/Pref15_nigata_nayose0704.csv / 0027-03-26
+./../47honkaigi_20170913/Pref18_fukui.csv / 0027-03-09
+
+
+
+
+
+
+    平成２７年　　２月　定例会
+    平成２７年２月定例会　平成２７年３月１８日
+    議事日程
+    第２４日目
+    －－－－－－－－－－－－－－－－－－－－－－－－－－
+    １　開議
+    ２　発議第１８２号及び発議第１８３号、質疑・討論、採決
+    ３　第６５号議案及び第６６号議案、質疑・討論、採決
+    ４　委員長審査結果報告、質疑・討論、採決
+    ５　決議上程、質疑・討論、採決
+    ６　発議第１８４号上程、質疑・討論、採決
+    ７　議会閉会中委員会付託事件の採決
+    ８　閉会
+    平成２７年３月１８日（水曜日）
+    出席議員（４４名）
+    欠番
+    ２番　　川崎祥司君
+    ３番　　清水正明君
+    ４番　　深堀　浩君
+

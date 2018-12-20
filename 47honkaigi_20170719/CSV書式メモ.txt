@@ -1,0 +1,19 @@
+2017年2月15日版 都道府県議会CSVフォーマット
+
+[0] id: 識別子（自治体によって命名規則にばらつきあり）
+[1] prefName: 都道府県名
+[2] kai: 回
+[3] gou: 号
+[4] year: 年
+[5] month: 月
+[6] day: 日
+[7] numOfDays: 開催期間
+[8] title: 表題
+[9] speakerType: 発言者名表層（役職，議員番号＋氏名）
+[10] speakerId: 議員ID（議員でない場合は役職名）
+[11] speakerName: 発言者名
+[12] speakerLabel: 発言者の役職
+[13] hatsugen: 発言文
+[14] hatsugenOther: 発言以外の記録文？
+[15] url: 原本URL
+[16] htmlFile: ？？

@@ -1,0 +1,166 @@
+- - honkaigi - - - - - - - - - -
+
+pref_name		/	date		/	line_num
+- - - - - - - - - - - - - - - - - - - - - - - -
+Pref01_hokkaido.csv	/	hokkaido	/	108344
+Pref02_aomori.csv	/	aomori	/	96095
+Pref03_iwate.csv	/	iwate	/	83436
+Pref04_miyagi.csv	/	miyagi	/	123815
+Pref05_akita.csv	/	akita	/	57635
+Pref06_yamagata.csv	/	yamagata	/	33075
+Pref07_fukushima.csv	/	fukushima	/	59215
+Pref08_ibaraki.csv	/	ibaraki	/	70492
+Pref09_tochigi.csv	/	tochigi	/	33824
+Pref10_gunma.csv	/	gunma	/	63221
+Pref11_saitama.csv	/	saitama	/	139901
+Pref12_chiba.csv	/	chiba	/	66406
+Pref13_tokyo.csv	/	tokyo	/	115750
+Pref14_kanagawa.csv	/	kanagawa	/	101895
+Pref15_nigata.csv	/	nigata	/	90476
+Pref16_toyama.csv	/	toyama	/	74362
+Pref17_ishikawa.csv	/	ishikawa	/	39825
+Pref18_fukui.csv	/	fukui	/	87817
+Pref19_yamanashi.csv	/	yamanashi	/	79247
+Pref20_nagano.csv	/	nagano	/	95842
+Pref21_gifu.csv	/	gifu	/	67610
+Pref22_shizuoka.csv	/	shizuoka	/	91526
+Pref23_aichi.csv	/	aichi	/	88416
+Pref24_mie.csv	/	mie	/	75893
+Pref25_shiga.csv	/	shiga	/	92969
+Pref26_kyoto.csv	/	kyoto	/	72824
+Pref27_osaka.csv	/	osaka	/	95929
+Pref28_hyogo.csv	/	hyogo	/	53622
+Pref29_nara.csv	/	nara	/	71490
+Pref30_wakayama.csv	/	wakayama	/	62970
+Pref31_tottori.csv	/	tottori	/	172689
+Pref32_shimane.csv	/	shimane	/	106708
+Pref33_okayama.csv	/	okayama	/	111268
+Pref34_hiroshima.csv	/	hiroshima	/	54298
+Pref35_yamaguchi.csv	/	yamaguchi	/	82116
+Pref36_tokushima.csv	/	tokushima	/	69015
+Pref37_kagawa.csv	/	kagawa	/	68657
+Pref38_ehime.csv	/	ehime	/	58547
+Pref39_kochi.csv	/	kochi	/	83058
+Pref40_fukuoka.csv	/	fukuoka	/	84918
+Pref41_saga.csv	/	saga	/	97474
+Pref42_nagasaki.csv	/	nagasaki	/	54180
+Pref43_kumamoto.csv	/	kumamoto	/	82164
+Pref44_oita.csv	/	oita	/	94297
+Pref45_miyazaki.csv	/	miyazaki	/	103344
+Pref46_kagoshima.csv	/	kagoshima	/	113984
+Pref47_okinawa.csv	/	okinawa	/	149878
+- - - - - - - - - - - - - - - - - - - - - - - -
+average : 84691.85106382979
+
+
+
+- - honkaigi_20170719 - - - - - - - - - -
+
+pref_name		/	date		/	line_num
+- - - - - - - - - - - - - - - - - - - - - - - -
+Pref01_hokkaido.csv	/	hokkaido	/	108344
+Pref02_aomori.csv	/	aomori	/	96095
+Pref03_iwate	/	nayose0704	/	83436
+Pref04_miyagi	/	nayose0704	/	123815
+Pref05_akita	/	sorted	/	57635
+Pref06_yamagata	/	nayose0704	/	33075
+Pref07_fukushima	/	nayose0704	/	69741
+Pref08_ibaraki.csv	/	ibaraki	/	70492
+Pref09_tochigi.csv	/	tochigi	/	53768
+Pref10_gunma.csv	/	gunma	/	62977
+Pref11_saitama	/	nayose0704	/	139901
+Pref12_chiba.csv	/	chiba	/	133345
+Pref13_tokyo.csv	/	tokyo	/	115750
+Pref14_kanagawa	/	nayose0704	/	101895
+Pref15_nigata	/	nayose0704	/	90476
+Pref16_toyama.csv	/	toyama	/	74132
+Pref17_ishikawa.csv	/	ishikawa	/	39825
+Pref18_fukui.csv	/	fukui	/	87817
+Pref19_yamanashi.csv	/	yamanashi	/	79247
+Pref20_nagano.csv	/	nagano	/	95842
+Pref21_gifu	/	nayose0704	/	67610
+Pref22_shizuoka	/	sorted	/	91526
+Pref23_aichi.csv	/	aichi	/	88416
+Pref24_mie	/	nayose0704	/	75893
+Pref25_shiga.csv	/	shiga	/	93452
+Pref26_kyoto.csv	/	kyoto	/	72824
+Pref27_osaka	/	sorted	/	95929
+Pref28_hyogo.csv	/	hyogo	/	53622
+Pref29_nara	/	nayose0704	/	71490
+Pref30_wakayama	/	nayose0704	/	62970
+Pref31_tottori.csv	/	tottori	/	172689
+Pref32_shimane.csv	/	shimane	/	106708
+Pref33_okayama	/	nayose0704	/	111268
+Pref34_hiroshima.csv	/	hiroshima	/	54298
+Pref35_yamaguchi	/	nayose0704	/	82116
+Pref36_tokushima	/	nayose0704	/	69015
+Pref37_kagawa.csv	/	kagawa	/	68475
+Pref38_ehime.csv	/	ehime	/	58547
+Pref39_kochi	/	nayose0704	/	83058
+Pref40_fukuoka.csv	/	fukuoka	/	84918
+Pref41_saga.csv	/	saga	/	97474
+Pref42_nagasaki	/	nayose0704	/	54180
+Pref43_kumamoto	/	nayose0704	/	82164
+Pref44_oita	/	nayose0704	/	94297
+Pref45_miyazaki	/	nayose0704	/	103344
+Pref46_kagoshima.csv	/	kagoshima	/	113984
+Pref47_okinawa	/	nayose0704	/	155947
+- - - - - - - - - - - - - - - - - - - - - - - -
+average : 86889.82978723405
+
+
+
+- - honkaigi_20170913
+pref_name		/	date		/	line_num
+- - - - - - - - - - - - - - - - - - - - - - - -
+Pref01_hokkaido	/	0905	/	115091
+Pref02_aomori.csv	/	aomori	/	96095
+Pref03_iwate	/	nayose0704	/	83436
+Pref04_miyagi	/	nayose0704	/	123815
+Pref05_akita	/	sorted	/	57635
+Pref06_yamagata	/	nayose0704	/	33075
+Pref07_fukushima	/	nayose0704	/	69741
+Pref08_ibaraki.csv	/	ibaraki	/	70492
+Pref09_tochigi	/	0905	/	81452
+Pref10_gunma	/	0905	/	104851
+Pref11_saitama	/	nayose0704	/	139901
+Pref12_chiba.csv	/	chiba	/	133345
+Pref13_tokyo.csv	/	tokyo	/	115750
+Pref14_kanagawa	/	nayose0704	/	101895
+Pref15_nigata	/	nayose0704	/	90476
+Pref16_toyama.csv	/	toyama	/	74132
+Pref17_ishikawa	/	0905	/	72678
+Pref18_fukui.csv	/	fukui	/	87817
+Pref19_yamanashi.csv	/	yamanashi	/	79247
+Pref20_nagano	/	0905	/	136055
+Pref21_gifu	/	nayose0704	/	67610
+Pref22_shizuoka	/	sorted	/	91526
+Pref23_aichi.csv	/	aichi	/	88416
+Pref24_mie	/	nayose0704	/	75893
+Pref25_shiga	/	0905	/	142596
+Pref26_kyoto.csv	/	kyoto	/	72824
+Pref27_osaka	/	sorted	/	95929
+Pref28_hyogo	/	0905	/	74480
+Pref29_nara	/	nayose0704	/	71490
+Pref30_wakayama	/	nayose0704	/	62970
+Pref31_tottori.csv	/	tottori	/	172689
+Pref32_shimane.csv	/	shimane	/	106708
+Pref33_okayama	/	nayose0704	/	111268
+Pref34_hiroshima.csv	/	hiroshima	/	54298
+Pref35_yamaguchi	/	nayose0704	/	82116
+Pref36_tokushima	/	nayose0704	/	69015
+Pref37_kagawa.csv	/	kagawa	/	68475
+Pref38_ehime	/	0905	/	73882
+Pref39_kochi	/	nayose0704	/	83058
+Pref40_fukuoka.csv	/	fukuoka	/	84918
+Pref41_saga.csv	/	saga	/	97474
+Pref42_nagasaki	/	nayose0904	/	135966
+Pref43_kumamoto	/	nayose0704	/	82164
+Pref44_oita	/	nayose0704	/	94297
+Pref45_miyazaki	/	nayose0704	/	103344
+Pref46_kagoshima.csv	/	kagoshima	/	113984
+Pref47_okinawa	/	nayose0704	/	155947
+- - - - - - - - - - - - - - - - - - - - - - - -
+average : 93623.74468085106
+
+

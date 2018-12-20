@@ -1,0 +1,62 @@
+/Users/yuya/PycharmProjects/soturon/speech_or_not/47honkaigi_answer_txt/Pref40_fukuoka_0027-02-24_answer.txt
+行数362
+発言テキスト243
+max: 247, min: 6
+非発言テキスト119
+max: 50, min: 2
+
+/Users/yuya/PycharmProjects/soturon/speech_or_not/47honkaigi_answer_txt/Pref41_saga_0027-03-06_answer.txt
+行数473
+発言テキスト278
+max: 254, min: 8
+非発言テキスト195
+max: 38, min: 1
+
+/Users/yuya/PycharmProjects/soturon/speech_or_not/47honkaigi_answer_txt/Pref42_nagasaki_nayose0904_0027-03-18_answer.txt
+行数650
+発言テキスト456
+max: 302, min: 5
+非発言テキスト182
+max: 72, min: 2
+text2: 12
+max: 44, min: 14
+
+/Users/yuya/PycharmProjects/soturon/speech_or_not/47honkaigi_answer_txt/Pref43_kumamoto_nayose0704_0027-03-13_answer.txt
+行数877
+発言テキスト638
+max: 416, min: 5
+非発言テキスト239
+max: 34, min: 1
+
+
+/Users/yuya/PycharmProjects/soturon/speech_or_not/47honkaigi_answer_txt/Pref44_oita_nayose0704_0027-03-17_answer.txt
+行数669
+発言テキスト429
+max: 503, min: 5
+非発言テキスト240
+max: 81, min: 3
+
+/Users/yuya/PycharmProjects/soturon/speech_or_not/47honkaigi_answer_txt/Pref45_miyazaki_nayose0704_0027-03-13_answer.txt
+行数510
+発言テキスト443
+max: 256, min: 5
+非発言テキスト59
+max: 36, min: 1
+text2:8
+max: 54, min: 17
+
+/Users/yuya/PycharmProjects/soturon/speech_or_not/47honkaigi_answer_txt/Pref46_kagoshima_0027-03-20_answer.txt
+行数776
+発言テキスト564
+max: 449, min: 8
+非発言テキスト212
+max: 23, min: 2
+
+/Users/yuya/PycharmProjects/soturon/speech_or_not/47honkaigi_answer_txt/Pref47_okinawa_nayose0704_0027-03-27_answer.txt
+行数1019
+発言テキスト849
+max: 926, min: 3
+非発言テキスト168
+max: 34, min: 2
+text2:2
+max: 17, min: 17

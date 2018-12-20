@@ -1,0 +1,53 @@
+pref_name		/	date		/	line_num
+- - - - - - - - - - - - - - - - - - - - - - - -
+Pref01_hokkaido	/	0027-03-11	/	595
+Pref02_aomori	/	0027-03-17	/	283
+Pref03_iwate	/	0027-03-23	/	975
+Pref04_miyagi	/	0027-03-18	/	662
+Pref05_akita	/	0027-03-12	/	408
+Pref06_yamagata	/	0027-03-17	/	114
+Pref07_fukushima/	0027-03-20	/	553
+Pref08_ibaraki	/	0027-03-23	/	405
+Pref09_tochigi	/	0026-12-18	/	512
+Pref10_gunma	/	0027-03-12	/	1513
+Pref11_saitama	/	0027-03-13	/	1514
+Pref12_chiba	/	0027-03-13	/	643
+Pref13_tokyo	/	0027-03-27	/	2570
+Pref14_kanagawa	/	0027-03-13	/	512
+Pref15_nigata	/	0027-03-26	/	821
+Pref16_toyama	/	0027-03-16	/	1483
+Pref17_ishikawa	/	0027-03-18	/	369
+Pref18_fukui	/	0027-03-09	/	821
+Pref19_yamanashi/	0027-03-16	/	702
+Pref20_nagano	/	0027-03-13	/	423
+Pref21_gifu     /   0027-03-19	/	398
+Pref22_shizuoka	/	0027-03-27	/	187
+Pref23_aichi	/	0027-03-20	/	442
+Pref24_mie 	    /   0027-03-17	/	325
+Pref25_shiga	/	0027-03-16	/	1069
+Pref26_kyoto	/	0027-03-13	/	595
+Pref27_osaka	/	0027-03-18	/	447
+Pref28_hyogo	/	0027-03-20	/	434
+Pref29_nara	    /   0027-03-18	/	526
+Pref30_wakayama	/	0027-03-06	/	325
+Pref31_tottori	/	0027-03-12	/	786
+Pref32_shimane	/	0027-03-06	/	620
+Pref33_okayama	/	0027-03-19	/	557
+Pref34_hiroshima/	0027-03-10	/	364
+Pref35_yamaguchi/	0027-03-13	/	701
+Pref36_tokushima/	0027-03-09	/	854
+Pref37_kagawa	/	0027-03-16	/	619
+Pref38_ehime	/	0027-03-18	/	453
+Pref39_kochi	/	0027-03-19	/	811
+Pref40_fukuoka	/	0027-02-24	/	362
+Pref41_saga	    /   0027-03-06	/	473
+Pref42_nagasaki	/	0027-03-18	/	1665
+Pref43_kumamoto	/	0027-03-13	/	877
+Pref44_oita 	/   0027-03-17	/	669
+Pref45_miyazaki	/	0027-03-13	/	510
+Pref46_kagoshima/	0027-03-20	/	777
+Pref47_okinawa	/	0027-03-27	/	1019
+- - - - - - - - - - - - - - - - - - - - - - - -
+average : 696.6595744680851
+sum : 32743
+
